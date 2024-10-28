@@ -7,8 +7,11 @@
   --blue-clr: #207DFF; 
   --dark-blue-clr: #191046;
   --red-clr: #F06157; 
-  --gray-bg: #F5F6FB;
-  --gray-text: #575455;
+  --pink-clr: #FF1FB3;
+  --orange-clr: #F75C4E;
+  --yellow-clr: #F7954E;
+  --gray-primary: #F5F6FB;
+  --gray-secondary: #575455;
 }
 
 @layer components {

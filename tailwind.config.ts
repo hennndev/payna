@@ -13,8 +13,11 @@ const config: Config = {
         "blue-clr": "var(--blue-clr)",
         "dark-blue-clr": "var(--dark-blue-clr)",
         "red-clr": "var(--red-clr)",
-        "gray-primary": "var(--gray-clr)",
-        "gray-secondary": "var(--gray-text)"
+        "pink-clr": "var(--pink-clr)",
+        "orange-clr": "var(--orange-clr)",
+        "yellow-clr": "var(--yellow-clr)",
+        "gray-primary": "var(--gray-primary)",
+        "gray-secondary": "var(--gray-secondary)"
       },
     },
   },

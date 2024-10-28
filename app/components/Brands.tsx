@@ -10,7 +10,7 @@ import googleIcon from '@/app/assets/images/google.svg'
 
 const Brands = () => {
     return (
-        <section className='container'>
+        <section className='container px-[30px]'>
             <section className='flex-between'>
                 <p className='text-primary text-[16px] font-semibold w-[151px]'>Trusted by Global Companies</p>
 

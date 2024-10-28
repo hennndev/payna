@@ -1,13 +1,13 @@
 "use client"
 import React from 'react'
 import Image from 'next/image'
-import { FiCheckCircle, FiActivity, FiBarChart, FiBarChart2 } from "react-icons/fi"
+import { FiCheckCircle, FiActivity } from "react-icons/fi"
 import heroImage from '@/app/assets/images/hero-image.png'
 import heroChartIcon from '@/app/assets/images/hero-chart-icon.svg'
 
 const Hero = () => {
     return (
-        <section className='container'>
+        <section className='container px-[30px]'>
             <section className='flex-between'>
                 <section className='flex flex-col w-[442px] space-y-[20px]'>
                     <h1 className='text-primary text-[55px] font-bold tracking-tighter'>
